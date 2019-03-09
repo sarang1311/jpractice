@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+      <class name="pract.P1">
+        <test-method status="PASS" signature="f4()[pri:0, instance:pract.P1@28d25987]" name="f4" is-config="true" duration-ms="16" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:pract.P1@28d25987]" name="f2" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:pract.P1@28d25987]" name="f1" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f11()[pri:0, instance:pract.P1@28d25987]" name="f11" duration-ms="8" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f11 -->
+        <test-method status="PASS" signature="f8()[pri:0, instance:pract.P1@28d25987]" name="f8" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8 -->
+        <test-method status="PASS" signature="f9()[pri:0, instance:pract.P1@28d25987]" name="f9" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f9 -->
+        <test-method status="PASS" signature="f6()[pri:0, instance:pract.P1@28d25987]" name="f6" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f6 -->
+        <test-method status="PASS" signature="f7()[pri:0, instance:pract.P1@28d25987]" name="f7" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f7 -->
+        <test-method status="PASS" signature="f5()[pri:0, instance:pract.P1@28d25987]" name="f5" is-config="true" duration-ms="0" started-at="2019-02-22T05:53:23Z" finished-at="2019-02-22T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5 -->
+      </class> <!-- pract.P1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
